@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.5.1)
+  - HandyJSON (4.1.1)
+  - SDWebImage (4.2.2):
+    - SDWebImage/Core (= 4.2.2)
+  - SDWebImage/Core (4.2.2)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - HandyJSON (~> 4.1.1)
+  - SDWebImage (~> 4.0)
+  - SnapKit (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - HandyJSON
+    - SDWebImage
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  HandyJSON: 3a3de917c4118767ffe41c29b5acba23409649f4
+  SDWebImage: 89a9d32cd520bbb46eb14e541d5109b3564af198
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: d94cfe7e863125353b5b2813743e4cc68317f8c1
+
+COCOAPODS: 1.5.0
